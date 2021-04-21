@@ -9,7 +9,7 @@ license="All rights reserved"
 
 modId="maidensmaterials" #mandatory
 
-version="${file.jarVersion}" #mandatory
+version="${version}" #mandatory
 
 displayName="Maiden's Marvelous Materials" #mandatory
 
